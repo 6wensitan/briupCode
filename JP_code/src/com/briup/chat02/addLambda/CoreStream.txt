@@ -1,0 +1,17 @@
+Stream API && 集合框架
+
+》Stream API 跟多关注与多个数据的计算（排序，查找，过滤，映射，遍历等），面向CPU。
+集合是关注与数据的存储，面向内存。
+
+Stream API类似用于集合，或者SQL语句查询的数据表
+
+》使用说明
+特点：Stream 不会存储数据
+    Stream 不会修改元数据，反而会产生一个新的Stream数据
+    Stream 操作是延迟的
+    Stream 一旦执行了终止操作，就不能在执行中间操作或者终止操作
+
+》Stream使用流程
+-Stream的实例化
+-Stream的一系列中间操作
+-Stream的终止操作（只能有一次）

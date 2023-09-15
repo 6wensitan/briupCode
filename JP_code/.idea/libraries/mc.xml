@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.8/jdk1.8.0/lib/missioncontrol/mc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
